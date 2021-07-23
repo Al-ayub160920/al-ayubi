@@ -4,10 +4,12 @@ body {
 .jumbotron {
   padding-top: 6rem;
   background-color: #e2edff;
+  margin-top: 10px;
 }
 #projects {
   background-color: #e2edff;
 }
 section {
   padding-top: 5rem;
+  margin-top: 10rem;
 }
